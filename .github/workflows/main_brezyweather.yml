@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'brezyweather'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D696AC7691D44E2C915392630BFC40EF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2EAC4E0D03964818B48D4A6B5B7A5791 }}
           package: .
